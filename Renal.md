@@ -18,10 +18,6 @@
 
 ### Diuretics
 
+#### Loop Diuretics
+
 ## Microbiology
-
-## Anatomy
-
-## Histology
-
-## Physiology
