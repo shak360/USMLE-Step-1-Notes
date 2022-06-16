@@ -4,7 +4,7 @@
   - [Physiology](#physiology)
     - [Cranial Nerves](#cranial-nerves)
       - [CN III](#cn-iii)
-      - [CN III Palsy](#cn-iii-palsy)
+        - [CN III Palsy](#cn-iii-palsy)
       - [CN IX Glossopharyngeal nerve](#cn-ix-glossopharyngeal-nerve)
     - [Major functions of the hypothalamic nuclei](#major-functions-of-the-hypothalamic-nuclei)
     - [Upper Motor Neuron (UMN) vs Lower Motor Neuron (LMN) Lesions](#upper-motor-neuron-umn-vs-lower-motor-neuron-lmn-lesions)
@@ -44,7 +44,7 @@
 
 Motor - extraocular muscles -- affected primarily by vascular disease (diabetes: glucose -> sorbitol)
 
-#### CN III Palsy
+##### CN III Palsy
 
 A "down-and-out" gaze with ptosis.
 
