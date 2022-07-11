@@ -10,6 +10,7 @@
     - [Upper Motor Neuron (UMN) vs Lower Motor Neuron (LMN) Lesions](#upper-motor-neuron-umn-vs-lower-motor-neuron-lmn-lesions)
       - [Upper Motor Neuron lesions](#upper-motor-neuron-lesions)
       - [Lower Motor Neuron lesions](#lower-motor-neuron-lesions)
+      - [Amyotrophic lateral sclerosis (ALS)](#amyotrophic-lateral-sclerosis-als)
   - [Pathology](#pathology)
     - [Painful disorders](#painful-disorders)
       - [Trigeminal neuralgia](#trigeminal-neuralgia)
@@ -75,6 +76,12 @@ General sensory - Tympanic membrane (inner surface), eustachian tube, posterior 
 - Pronator drift: Pronator drift on exam is consistent with central nervous system (CNS) lesions (ie, stroke), which present with upper motor neuron findings. In pronator drift, the upper limb will drift down and the palm will drift toward the floor due to the muscle imbalance between the supinator and pronator muscles. If the lesion is confined to one side of the brain (such as in a left cerebral infarct), the contralateral side of the body controlled by that area of the brain will be involved (in this case, right pronator drift).
 
 #### Lower Motor Neuron lesions
+
+#### Amyotrophic lateral sclerosis (ALS) 
+
+ALS is a neurogenerative motor neuron disease (upper and lower). Patients often have a combination of upper and lower motor neuron signs, although the deficits may initially be asymmetric. Lower motor neuron signs (fasciculations, flaccid weakness, muscle atrophy) and upper motor neuron signs (spastic weakness, hyperreflexia, Babinski sign) are both seen. The lifespan after symptom development is typically 3 to 5 years, with death frequently due to respiratory failure.
+
+ALS results in degeneration of the corticospinal and corticobulbar tracts that derive from the cerebral cortex motor neurons. It also causes degeneration of the motor fibers that project from the anterior horn cells of the spinal cord.
 
 ## Pathology
 

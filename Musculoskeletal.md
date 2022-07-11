@@ -2,6 +2,15 @@
 
 ## Arms
 
+### Median nerve
+
+#### Proximal median nerve injury
+
+"Hand of benediction"
+
+Proximal median nerve injury classically presents with the inability to flex the second and third MCP joints.
+
+
 ### Radial nerve (C5-T1)
 
 #### Proximal radial nerve injury 
